@@ -4,6 +4,8 @@ This project is based on a Kaggle competition that challenges participants to cr
 I used a BERT pre-trained model and trained it on the given dataset, then I fine-tuned the hyperparameters and saved the checkpoint. 
 I also built a Streamlit App that lets users test the model and see if a tweet is about a natural disaster or not.
 
+![App](https://github.com/yuka-with-data/disaster-classification-twt-app/blob/master/tweet-classification.jpeg?raw=true)
+
 ### Resources
 Kaggle Competition
 https://www.kaggle.com/competitions/nlp-getting-started
