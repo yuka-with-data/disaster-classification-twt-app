@@ -1,8 +1,6 @@
 # Natural Disaster Tweet Classification App Powered By Streamlit
 
-This project is based on a Kaggle competition that challenges participants to create a machine learning model that can classify tweets as related to real natural disasters or not. 
-I used a BERT pre-trained model and trained it on the given dataset, then I fine-tuned the hyperparameters and saved the checkpoint. 
-I also built a Streamlit App that lets users test the model and see if a tweet is about a natural disaster or not.
+The goal of this project is to develop a machine-learning model that can accurately classify tweets that refer to real natural disasters and those that do not. For this purpose, I leveraged a BERT pre-trained model and trained it on the dataset provided by the Kaggle competition. After training, I optimized the hyperparameters and saved the best model checkpoint. To demonstrate the model's performance, I also created a Streamlit App that allows users to enter a tweet and see the model's prediction of whether it is about a natural disaster or not.
 
 ![App](https://github.com/yuka-with-data/disaster-classification-twt-app/blob/master/tweet-classification.jpeg?raw=true)
 
